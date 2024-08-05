@@ -1,4 +1,4 @@
-# Adpotbox (Richiesoft)
+# Adpotbox Prime (ILRLabs)
 Adpotbox App [Win11 version]
 
 # Overview
